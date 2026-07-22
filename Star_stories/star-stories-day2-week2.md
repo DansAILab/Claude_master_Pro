@@ -1,0 +1,1 @@
+# i once had an issue with my car, it simply did not start, and it went into limp mode, typical bmw problems. I tried to break down each step on the process of how the car starts, and by the process of ilimination i realise it was a bad fuel pump, changed it and the car started with no issues.
