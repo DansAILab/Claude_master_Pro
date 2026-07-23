@@ -1,7 +1,7 @@
 
 chores = [] 
 while True:
-    user_input = input("Would you like to add, view or quit the list? ")
+    user_input = input("Would you like to add, view or quit the list? ").lower()
 
     if user_input == "add": 
         item = input("What would you like to add? ")
